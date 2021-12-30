@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x5e5e002fC21930Cf8216bCd49e3036d03fa7cB49",
+  "SCAN_LINK": "https://polygonscan.com/address/0x5e5e002fc21930cf8216bcd49e3036d03fa7cb49",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Polygon Ape Community",
+  "SYMBOL": "PAC",
+  "MAX_SUPPLY": 3000,
+  "WEI_COST": 1000000000000000,
+  "DISPLAY_COST": 0.00,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/polygon-ape-community",
+  "SHOW_BACKGROUND": true
+}
